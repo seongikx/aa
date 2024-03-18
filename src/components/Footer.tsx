@@ -20,7 +20,7 @@ const Footer = () => {
                     >
                         <ContactsIcon contact='github' />
                     </a>
-                    <a key='instagram' href='/' className="'text-primary transition hover:text-secondary'">
+                    <a key='instagram' href='https://www.instagram.com/p._.odo/' className="'text-primary transition hover:text-secondary'">
                         <ContactsIcon contact='instagram' />
                     </a>
                 </div>
